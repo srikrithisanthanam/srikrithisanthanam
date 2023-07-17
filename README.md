@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development, Data Structures, Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/srikrithi-santhanam?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByRcV39UkRL28WjV5q9khjg%3D%3D**
+- 📫 How to reach me **srikrithisanthanam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
